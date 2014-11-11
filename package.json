@@ -1,0 +1,14 @@
+{
+  "name": "o365-sharepoint-api-demo",
+  "version": "1.0.0",
+  "description": "This is a short node script that demonstrates authentication with an Active Directory app",
+  "main": "index.js",
+  "author": "Kevin Tonon",
+  "license": "MIT",
+  "dependencies": {
+    "open": "0.0.5",
+    "q": "^1.0.1",
+    "request": "^2.47.0",
+    "underscore": "^1.7.0"
+  }
+}
