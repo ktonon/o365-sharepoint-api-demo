@@ -7,7 +7,7 @@ Instructions
 ------------
 
 * Clone this repo
-* Copy `config.example.json` to `config.json` and fill in the values (see next section)
+* Copy `lib/config.example.json` to `lib/config.json` and fill in the values (see next section)
 * Run `npm install`
 * Run `node lib/index.json`
 * A browser will open. Authenticate and give the script access. After authenticating the script will:
