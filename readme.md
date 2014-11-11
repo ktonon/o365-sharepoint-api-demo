@@ -11,10 +11,10 @@ Instructions
 * Run `npm install`
 * Run `node lib/index.json`
 * A browser will open. Authenticate and give the script access. After authenticating the script will:
-  * Get an authentication token
+  * Get an access token
   * Use the auth token to get the sharepoint api endpoint from the discovery service
-  * Get a new auth token given a refresh token
-  * Use the new auth token to get a list of files from sharepoint. The previously found endpoint is used
+  * Get a new access token given a refresh token
+  * Use the new access token to get a list of files from sharepoint. The previously found endpoint is used
 
 Running the script as
 
